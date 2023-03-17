@@ -1,0 +1,28 @@
+/*RESET*/
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/*COMMON*/
+body{
+
+}
+/*LAYOUT*/
+.container-number{
+    width: 100%;
+    display: flex;
+    color: white;
+}
+.user-num{
+    background-color: red;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.cpu-num{
+    background-color: blue;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

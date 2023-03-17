@@ -36,3 +36,4 @@ switch(userChoice){
 return message;
 }
 alert(pariODispari(userNumber, cpuNumber));
+document.getElementById('');
