@@ -1,6 +1,6 @@
 let userChoice = prompt("Pari o Dispari");
 userChoice = userChoice.toLowerCase();
-let userNumber = parseInt(prompt("Insrisci un numero da 1 a 5"));
+let userNumber = parseInt(prompt("Inserisci un numero da 1 a 5"));
 let cpuNumber = Math.floor(Math.random() * 5 + 1);
 console.log('Numero scelto da user '+ userNumber);
 console.log('Numero scelto dal computer '+cpuNumber);
